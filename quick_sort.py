@@ -1,4 +1,4 @@
-#! /etc/bin/python
+#! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
 
@@ -8,8 +8,9 @@ import time
 
 """
 本文演示快速排序的python实现
-参考文章
-
+这是一种分治思想
+复杂度 O(nlogn)
+参考文章 https://www.cnblogs.com/onepixel/p/7674659.html
 """
 
 
